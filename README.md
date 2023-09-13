@@ -1,2 +1,2 @@
 # python-proxyHttpService made by Tyler
-transparent http proxy 
+A transparent and async http proxy 
